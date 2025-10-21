@@ -23,6 +23,7 @@ const AppRedux = () => {
             <Controls></Controls>
           </div>
         </Container>
+        <i>Its based on Only-Redux</i>
       </div>
 
       <MotivQoutes />
