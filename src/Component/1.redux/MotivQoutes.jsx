@@ -15,12 +15,12 @@ const MotivQoutes = () => {
                 {" "}
                 <img
                   style={{ height: "400px" }}
-                  src="https://images.pexels.com/photos/4753879/pexels-photo-4753879.jpeg?cs=srgb&dl=pexels-cottonbro-4753879.jpg&fm=jpg"
+                  src="https://thumbs.dreamstime.com/b/inspirational-motivating-quotes-nature-background-goal-plan-just-wish-135367132.jpg?w=768"
                   alt=""
                 />
                 <div className="card-body">
                   {" "}
-                  <p className="card-text">
+                  <p className="card-text text-start">
                     This is a wider card with supporting text below as a natural
                     lead-in to additional content. This content is a little bit
                     longer.
@@ -57,8 +57,8 @@ const MotivQoutes = () => {
                   alt=""
                 />
                 <div className="card-body">
-                  {" "} 
-                  <p className="card-text">
+                  {" "}
+                  <p className="card-text text-start">
                     This is a wider card with supporting text below as a natural
                     lead-in to additional content. This content is a little bit
                     longer.
@@ -91,12 +91,12 @@ const MotivQoutes = () => {
                 {" "}
                 <img
                   style={{ height: "400px" }}
-                  src="https://thumbs.dreamstime.com/b/inspirational-motivating-quotes-nature-background-goal-plan-just-wish-135367132.jpg?w=768"
+                  src="https://images.pexels.com/photos/4753879/pexels-photo-4753879.jpeg?cs=srgb&dl=pexels-cottonbro-4753879.jpg&fm=jpg"
                   alt=""
                 />
                 <div className="card-body">
                   {" "}
-                  <p className="card-text">
+                  <p className="card-text text-start">
                     This is a wider card with supporting text below as a natural
                     lead-in to additional content. This content is a little bit
                     longer.
