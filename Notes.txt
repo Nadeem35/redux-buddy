@@ -1,0 +1,37 @@
+
+
+
+What is action
+Make function in action file.
+return data and type
+Add constant and use constant in action 
+
+
+--------- Lect-9 ----------
+container-
+  connet redux with react
+  import react-redux, action and component
+  use mapDispatchToProps
+  use mapStateToProps
+
+
+------------  Lect-10  ------------
+Complete Redux flow
+
+  Make Redux wrapper in index file
+  What is provider
+  Make Store
+  Check Data flow in console
+  Call Action on button Click
+
+
+------------  Lect-10  ------------
+Add Data in Cart
+
+  Get 1 item in Cart
+  Make some style for cart items
+  Push multipe items in cart
+  Show multiple count in cart
+
+
+  
